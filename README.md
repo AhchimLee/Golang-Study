@@ -1,2 +1,1 @@
-## 20.02.24 - Go Language Study
-
+## For Go Language Study
